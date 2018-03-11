@@ -1,7 +1,7 @@
 # Internship-Tracking-System
 
 
-Sistemin şirket tarafı ASP.NET ile yazılmıştır. Onu da upload ediyoru.
+Sistemin şirket tarafı ASP.NET ile yazılmıştır ve .NET tarafı bitirilmemiştir.
 
 Sistemin kontrol konusunda eksikleri vardır.
 
