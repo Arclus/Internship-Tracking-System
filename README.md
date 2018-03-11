@@ -6,3 +6,5 @@ Sistemin şirket tarafı ASP.NET ile yazılmıştır ve .NET tarafı bitirilmemi
 Sistemin kontrol konusunda eksikleri vardır.
 
 Proje tamamen bitmemiş olup %80 civarındadır.
+
+Database eklenecektir.
